@@ -5,7 +5,6 @@ import io
 import json
 import base64
 
-# Your Hugging Face API token (Read access)
 HF_TOKEN = "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"
 API_URL = "https://api-inference.huggingface.co/models/naver-clova-ix/donut-base-finetuned-docvqa"
 
