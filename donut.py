@@ -49,7 +49,7 @@ st.title("🧠 Visual Insight Assistant (Donut Model)")
 # Add API documentation link
 st.markdown("""
 This app uses the [Donut Document Visual Question Answering model](https://huggingface.co/naver-clova-ix/donut-base-finetuned-docvqa) 
-to answer questions about document images. Created by Vikrant Deo -> vdeo3@asu.edu
+to answer questions about document images. Created by Vikrant & Vishvali 
 """)
 
 uploaded_file = st.file_uploader("Upload an image (document screenshot or scan)", type=["jpg", "jpeg", "png"])
